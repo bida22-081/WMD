@@ -5,5 +5,5 @@ HTML5
 CSS3
 Jaca script
 Multimedia content
-JIMP imange editing software
+JIMP image editing software
 Those intrested in collaborating in these technologies you are welcome
